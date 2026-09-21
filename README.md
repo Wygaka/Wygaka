@@ -40,30 +40,32 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wygaka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Wygaka GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Wygaka&theme=tokyonight&hide_border=true" alt="Wygaka GitHub streak" />
+<p>
+  <img src="https://img.shields.io/github/stars/Wygaka?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=7aa2f7" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/Wygaka?style=for-the-badge&logo=github&label=Followers&color=bb9af7" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Wygaka&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
 
-<br />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wygaka&layout=compact&theme=tokyonight&hide_border=true" alt="Wygaka top languages" />
+<img height="170" src="https://streak-stats.demolab.com?user=Wygaka&theme=tokyonight&hide_border=true" alt="Wygaka GitHub streak" />
 
 </div>
 
-### 🏆 Achievements
+### 🏆 Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Wygaka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="Wygaka trophies" />
+<img src="https://img.shields.io/badge/Backend-24283b?style=for-the-badge&logo=serverfault&logoColor=7dcfff" alt="Backend" />
+<img src="https://img.shields.io/badge/Frontend-24283b?style=for-the-badge&logo=react&logoColor=7aa2f7" alt="Frontend" />
+<img src="https://img.shields.io/badge/Automation-24283b?style=for-the-badge&logo=githubactions&logoColor=9ece6a" alt="Automation" />
+<img src="https://img.shields.io/badge/Tools-24283b?style=for-the-badge&logo=visualstudiocode&logoColor=bb9af7" alt="Tools" />
 
 </div>
 
-### ⚡ Contribution graph
+### ⚡ Currently
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wygaka&theme=tokyo-night&hide_border=true&area=true" alt="Wygaka contribution graph" />
-
-</div>
+- Building projects and improving my coding skills
+- Practicing clean architecture and readable code
+- Learning more about AI tools, system design and DevOps
 
 ---
 
@@ -71,7 +73,7 @@
 
 **Let's connect**
 
-<a href="https://t.me/Wyg1kk">
+<a href="https://t.me/YOUR_TELEGRAM">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
