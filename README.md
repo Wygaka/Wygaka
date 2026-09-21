@@ -2,7 +2,7 @@
 
 # 🐍 Wygaka / experienced coder
 
-**C# • C++ • Python • JavaScript • TypeScript**
+**Python • JavaScript • C# • VS Code • Visual Studio 2022 • Windows**
 
 <p>
   <a href="https://github.com/Wygaka?tab=followers">
@@ -25,7 +25,7 @@
 
 </div>
 
-- 💻 I write code with **C#**, **C++**, **Python**, **JavaScript** and **TypeScript**
+- 💻 I write code with **Python**, **JavaScript** and **C#**
 - ⚙️ I like backend, frontend, automation and developer tools
 - 🚀 I am improving my skills in system design, AI tools and DevOps
 - 🧩 I enjoy clean code, practical solutions and projects that actually work
@@ -33,7 +33,7 @@
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,html,css,react,next,nodejs,nestjs,tailwind,postgres,mongodb,redis,docker,git,github,vscode,visualstudio,linux&perline=11" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=py,js,cs,vscode,visualstudio,windows&perline=6" alt="Python, JavaScript, C#, VS Code, Visual Studio 2022 and Windows" />
 </p>
 
 ### 📊 GitHub analytics
@@ -74,10 +74,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-24283b?style=for-the-badge&logo=serverfault&logoColor=7dcfff" alt="Backend" />
-<img src="https://img.shields.io/badge/Frontend-24283b?style=for-the-badge&logo=react&logoColor=7aa2f7" alt="Frontend" />
-<img src="https://img.shields.io/badge/Automation-24283b?style=for-the-badge&logo=githubactions&logoColor=9ece6a" alt="Automation" />
-<img src="https://img.shields.io/badge/Tools-24283b?style=for-the-badge&logo=visualstudiocode&logoColor=bb9af7" alt="Tools" />
+<img src="https://img.shields.io/badge/Python-24283b?style=for-the-badge&logo=python&logoColor=7dcfff" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-24283b?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%23-24283b?style=for-the-badge&logo=csharp&logoColor=bb9af7" alt="C Sharp" />
+<img src="https://img.shields.io/badge/Windows-24283b?style=for-the-badge&logo=windows&logoColor=7aa2f7" alt="Windows" />
 
 </div>
 
