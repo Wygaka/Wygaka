@@ -19,15 +19,16 @@
 
 ### 🧠 About me
 
-```ts
-const Wygaka = {
-  role: "experienced coder",
-  stack: ["C#", "C++", "Python", "JavaScript", "TypeScript"],
-  interests: ["backend", "frontend", "automation", "tools"],
-  learning: ["system design", "AI", "DevOps"],
-  vibe: "code hard, ship clean"
-};
-```
+<div align="center">
+
+**Hey, I'm Wygaka - a developer who enjoys building useful things and getting better with every project.**
+
+</div>
+
+- 💻 I write code with **C#**, **C++**, **Python**, **JavaScript** and **TypeScript**
+- ⚙️ I like backend, frontend, automation and developer tools
+- 🚀 I am improving my skills in system design, AI tools and DevOps
+- 🧩 I enjoy clean code, practical solutions and projects that actually work
 
 ### 🧰 Tech stack
 
