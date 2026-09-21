@@ -50,6 +50,26 @@
 
 </div>
 
+### 🟩 Contribution trail
+
+<div align="center">
+
+<sub>A quiet route through the grid, no snake required.</sub>
+
+<br /><br />
+
+🟩 🟩 🟩 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛  
+⬛ ⬛ 🟩 ⬛ ⬛ ⬛ 🟩 🟩 🟩 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ 🟩 🟩 🟩  
+⬛ ⬛ 🟩 🟩 🟩 ⬛ 🟩 ⬛ 🟩 ⬛ ⬛ 🟩 🟩 🟩 ⬛ ⬛ ⬛ 🟩 ⬛ 🟩  
+⬛ ⬛ ⬛ ⬛ 🟩 ⬛ 🟩 ⬛ 🟩 🟩 🟩 🟩 ⬛ 🟩 🟩 🟩 ⬛ 🟩 ⬛ 🟩  
+⬛ ⬛ ⬛ ⬛ 🟩 🟩 🟩 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ 🟩 🟩 🟩 ⬛ 🟩
+
+<br />
+
+<sub>less ▪ 🟩 🟩 🟩 🟩 more</sub>
+
+</div>
+
 ### 🏆 Focus
 
 <div align="center">
