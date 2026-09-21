@@ -89,12 +89,10 @@ focus       useful projects, clean logic, steady progress
 
 ### ⚡ What I do
 
-| Area | Energy |
-| --- | --- |
-| Python | scripts, logic, automation |
-| JavaScript | web basics and interactive stuff |
-| C# | desktop/app logic and structured code |
-| Tools | VS Code, Visual Studio 2022, Windows |
+- **Python** - scripts, logic and automation
+- **JavaScript** - web basics and interactive stuff
+- **C#** - desktop/app logic and structured code
+- **Tools** - VS Code, Visual Studio 2022 and Windows
 
 ---
 
