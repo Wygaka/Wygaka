@@ -27,7 +27,6 @@
 
 - 💻 I write code with **Python**, **JavaScript** and **C#**
 - ⚙️ I like backend, frontend, automation and developer tools
-- 🚀 I am improving my skills in system design, AI tools and DevOps
 - 🧩 I enjoy clean code, practical solutions and projects that actually work
 
 ### 🧰 Tech stack
@@ -93,7 +92,7 @@
 
 **Let's connect**
 
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/Wyg1kk">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
