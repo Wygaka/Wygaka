@@ -1,102 +1,76 @@
-<div align="center">
 
-# 🐍 Wygaka / experienced coder
 
-**Python • JavaScript • C# • VS Code • Visual Studio 2022 • Windows**
+# 🐍 Wygaka
+# 🐍 Max Verstappen
+
+### Python • JavaScript • C# • Windows
+### Python / JavaScript / C# / Windows
 
 <p>
-  <a href="https://github.com/Wygaka?tab=followers">
-    <img src="https://img.shields.io/github/followers/Wygaka?style=for-the-badge&logo=github&label=Followers&color=24292f" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/Wygaka">
-    <img src="https://komarev.com/ghpvc/?username=Wygaka&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=39D353&center=true&vCenter=true&width=520&lines=building+clean+things;learning+by+shipping;code+%E2%86%92+test+%E2%86%92+improve" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=39D353&center=true&vCenter=true&width=620&lines=%D0%BF%D0%B8%D1%88%D1%83+%D0%BA%D0%BE%D0%B4+%D0%B8+%D0%BA%D0%B0%D1%87%D0%B0%D1%8E%D1%81%D1%8C;%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%D1%81+%D0%BD%D1%83%D0%BB%D1%8F;%D0%BA%D0%BE%D0%B4+%2F+%D1%82%D0%B5%D1%81%D1%82+%2F+%D1%84%D0%B8%D0%BA%D1%81" alt="Typing intro" />
 </p>
-
-</div>
-
----
 
 ### 🧠 About me
+### 🧠 Обо мне
 
-<div align="center">
-
-**Hey, I'm Wygaka - a developer who enjoys building useful things and getting better with every project.**
-
-</div>
+```txt
+name        Wygaka
+role        beginner developer with serious energy
+stack       Python / JavaScript / C#
+tools       VS Code / Visual Studio 2022 / Windows
+focus       useful projects, clean logic, steady progress
+имя         Max Verstappen
+роль        начинающий разработчик с серьезным настроем
+стек        Python / JavaScript / C#
+инструменты VS Code / Visual Studio 2022 / Windows
+фокус       проекты / практика / чистая логика
+```
 
 - 💻 I write code with **Python**, **JavaScript** and **C#**
-- ⚙️ I like backend, frontend, automation and developer tools
-- 🧩 I enjoy clean code, practical solutions and projects that actually work
+- ⚙️ I like building practical projects and making things work properly
+- 🧩 I care about readable code, simple logic and improving step by step
+- 💻 Пишу код на **Python**, **JavaScript** и **C#**
+- ⚙️ Люблю делать практичные проекты, которые реально работают
+- 🧩 Качаю читаемый код, простую логику и уверенный прогресс
 
 ### 🧰 Tech stack
+### 🧰 Стек
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,cs,vscode,visualstudio,windows&perline=6" alt="Python, JavaScript, C#, VS Code, Visual Studio 2022 and Windows" />
-</p>
 
-### 📊 GitHub analytics
+### 📊 GitHub pulse
+### 📊 GitHub пульс
 
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/github/stars/Wygaka?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=7aa2f7" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/followers/Wygaka?style=for-the-badge&logo=github&label=Followers&color=bb9af7" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=Wygaka&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Wygaka&theme=tokyonight&hide_border=true" alt="Wygaka GitHub streak" />
-
-</div>
 
 ### 🟩 Contribution trail
+### 🟩 Маршрут активности
 
-<div align="center">
 
-<sub>A quiet route through the grid, no snake required.</sub>
+<sub>Not a snake. Just a clean route through the grid.</sub>
+<sub>Не змейка. Просто аккуратный маршрут по сетке.</sub>
 
-<br /><br />
-
-🟩 🟩 🟩 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛  
-⬛ ⬛ 🟩 ⬛ ⬛ ⬛ 🟩 🟩 🟩 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ 🟩 🟩 🟩  
-⬛ ⬛ 🟩 🟩 🟩 ⬛ 🟩 ⬛ 🟩 ⬛ ⬛ 🟩 🟩 🟩 ⬛ ⬛ ⬛ 🟩 ⬛ 🟩  
-⬛ ⬛ ⬛ ⬛ 🟩 ⬛ 🟩 ⬛ 🟩 🟩 🟩 🟩 ⬛ 🟩 🟩 🟩 ⬛ 🟩 ⬛ 🟩  
-⬛ ⬛ ⬛ ⬛ 🟩 🟩 🟩 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ 🟩 🟩 🟩 ⬛ 🟩
-
-<br />
 
 <sub>less ▪ 🟩 🟩 🟩 🟩 more</sub>
+<sub>меньше ▪ 🟩 🟩 🟩 🟩 больше</sub>
 
-</div>
 
-### 🏆 Focus
+### ⚡ What I do
+### ⚡ Что делаю
 
-<div align="center">
+| Area | Energy |
+| Направление | Что внутри |
+| --- | --- |
+| Python | scripts, logic, automation |
+| JavaScript | web basics and interactive stuff |
+| C# | desktop/app logic and structured code |
+| Python | скрипты / логика / автоматизация |
+| JavaScript | основы веба / интерактив / практика |
+| C# | приложения / структурный код / логика |
+| Tools | VS Code, Visual Studio 2022, Windows |
 
-<img src="https://img.shields.io/badge/Python-24283b?style=for-the-badge&logo=python&logoColor=7dcfff" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-24283b?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%23-24283b?style=for-the-badge&logo=csharp&logoColor=bb9af7" alt="C Sharp" />
-<img src="https://img.shields.io/badge/Windows-24283b?style=for-the-badge&logo=windows&logoColor=7aa2f7" alt="Windows" />
+**Thanks for visiting**
+**Спасибо, что заглянул**
 
-</div>
-
-### ⚡ Currently
-
-- Building projects and improving my coding skills
-- Practicing clean architecture and readable code
-- Learning more about AI tools, system design and DevOps
-
----
-
-<div align="center">
-
-**Let's connect**
-
-<a href="https://t.me/Wyg1kk">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+| C# | приложения / структурный код / логика |
+| Tools | VS Code, Visual Studio 2022, Windows |
+| Инструменты | VS Code / Visual Studio 2022 / Windows |
